@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhangishinde029
-- 👀 I’m interested in testing the softwares
+- 👀 I’m interested in testing the softwares🐞
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shubhangishinde029@gmail.com 
